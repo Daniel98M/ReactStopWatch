@@ -1,0 +1,27 @@
+body {
+  height:fit-content;
+  background: url("https://cdn.shopify.com/s/files/1/0062/7892/products/d498k-island_6858d4a2-306b-4c3e-b817-ef6dfea1bacc.png?v=1536861380");
+  background-size:cover;
+}
+
+.container {
+background: #FEC868;
+width: 800px;
+margin: 12.5%;
+color:#473C33;
+text-align:center;
+}
+
+p{
+  background: #473C33;
+  width: fit-content;
+  font-size:2em;
+  color:#FDA769;
+  margin: 0 auto;
+}
+
+#bot{
+  background: #FEC868;
+  font-size:1em;
+  color: #FEC868;
+}
